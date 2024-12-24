@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="primary">#1E990D</color>
+    <color name="primary_variant">#267A13</color>
+
+    <color name="primary_list_product">#D32F2F</color> <!-- Merah Terang -->
+    <color name="primary_list_product_variant">#B71C1C</color>   <!-- Merah Gelap -->
+
+    <color name="primary_add_supplier">#C2185B</color> <!-- Merah Muda -->
+    <color name="primary_add_supplier_variant">#9C1D47</color>   <!-- Merah Muda Gelap -->
+
+    <color name="primary_list_supplier">#8E24AA</color> <!-- Ungu Tua -->
+    <color name="primary_list_supplier_variant">#6A1B9A</color>   <!-- Ungu Lebih Gelap -->
+</resources>
